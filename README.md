@@ -1,6 +1,6 @@
 # 🏦 Banking System Calculator
 
-A simple command-line banking application written in C++ (or Python) that allows users to **deposit**, **withdraw**, and compute their **account balance**.
+A simple command-line banking application written in C++ that allows users to **deposit**, **withdraw**, and compute their **account balance**.
 
 ## 📋 Features
 
@@ -11,7 +11,7 @@ A simple command-line banking application written in C++ (or Python) that allows
 
 ## 🛠️ Tech Stack
 
-- Language: C++ / Python
+- Language: C++ 
 - Platform: Console-based
 
 ## 🚀 How to Use
